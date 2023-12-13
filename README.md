@@ -41,3 +41,7 @@ To start the development server, run the following command:
 ```bash
 npm run dev
 ```
+
+### Server
+
+The server git repository can be found [here](https://github.com/TajwarSaiyeed/time-tracking-system-server)
