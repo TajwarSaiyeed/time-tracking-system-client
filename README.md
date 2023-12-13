@@ -1,5 +1,11 @@
 # Time Tracking System Client Side
 
+![demo](./demo.png)
+
+## About
+
+Time tracking system is a software program that allows individuals and organizations to track the amount of time spent on specific tasks or projects. It provides valuable insights into how time is being utilized, helping to improve productivity, efficiency, and profitability.
+
 ## Getting Started
 
 To get started with this project, follow the steps below:
